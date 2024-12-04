@@ -1,0 +1,74 @@
+/* General body styling */
+body {
+    background-color: #f4f4f9;
+}
+
+/* Custom login page styling */
+.card {
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+}
+
+a {
+    font-size: 16px;
+}
+
+/* Form Styling */
+input {
+    font-size: 16px;
+}
+
+
+/* General styling */
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+/* Custom Card Styling */
+.card {
+    margin-top: 20px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.list-group-item {
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.list-group-item:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+button {
+    font-size: 18px;
+}
+
+/* Custom link style */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
